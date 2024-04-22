@@ -12,3 +12,6 @@
 - [Rearrange Product Tables](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/rearrange%20product%20tables.py)
 - [Second Highest Salary](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Second_highest_salary.py)
 - [Nth Highest Salary](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Nth_highest_salary.py)
+
+### Introduction To Pandas
+- [Create a dataframe from a list](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Create%20a%20dataframe%20from%20a%20list.py)
