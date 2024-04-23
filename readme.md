@@ -15,3 +15,4 @@
 
 ### Introduction To Pandas
 - [Create a dataframe from a list](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Create%20a%20dataframe%20from%20a%20list.py)
+- [Get the size of a dataframe](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Get%20the%20size%20of%20a%20Dataframe.py)
