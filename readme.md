@@ -19,3 +19,9 @@
 - [Display first three rows](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Display%20first%20three%20rows.py)
 - [Select Data](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Select%20Data.py)
 - [Create a new column](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Create%20a%20new%20column.py)
+
+### Top Interview 150
+- [Merge Sorted Array with built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(With%20Built-ins).py)
+- [Merge Sorted Array without built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(Without%20Built-ins).py)
+
+
