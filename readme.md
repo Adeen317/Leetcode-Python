@@ -19,6 +19,12 @@
 - [Display first three rows](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Display%20first%20three%20rows.py)
 - [Select Data](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Select%20Data.py)
 - [Create a new column](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Create%20a%20new%20column.py)
+- [Drop Duplicate Rows](https://github.com/Adeen317/Leetcode-Python/blob/main/Drop%20Duplicate%20rows.py)
+- [Drop Missing Data](https://github.com/Adeen317/Leetcode-Python/blob/main/Drop%20missing%20Data.py)
+- [Modify Columns](https://github.com/Adeen317/Leetcode-Python/blob/main/Modify%20Columns.py)
+- [Rename Columns](https://github.com/Adeen317/Leetcode-Python/blob/main/Rename%20Columns.py)
+- [Change Data Type](https://github.com/Adeen317/Leetcode-Python/blob/main/Change%20Data%20Type.py)
+- [Fill Missing Data](https://github.com/Adeen317/Leetcode-Python/blob/main/Fill%20Missing%20Data.py)
 
 ### Top Interview 150
 - [Merge Sorted Array with built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(With%20Built-ins).py)
