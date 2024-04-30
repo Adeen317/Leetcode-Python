@@ -26,6 +26,13 @@
 - [Change Data Type](https://github.com/Adeen317/Leetcode-Python/blob/main/Change%20Data%20Type.py)
 - [Fill Missing Data](https://github.com/Adeen317/Leetcode-Python/blob/main/Fill%20Missing%20Data.py)
 
+
+### 30 Days Of Pandas
+- [Big Countries](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Big%20Countries.py)
+- [Recyclable and Low Fat Products](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Customers%20who%20never%20orders.py)
+- [Customers who never orders](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Display%20first%20three%20rows.py)
+
+
 ### Top Interview 150
 - [Merge Sorted Array with built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(With%20Built-ins).py)
 - [Merge Sorted Array without built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(Without%20Built-ins).py)
