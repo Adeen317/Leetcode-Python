@@ -28,9 +28,15 @@
 
 
 ### 30 Days Of Pandas
+
+##### Data Filtering
 - [Big Countries](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Big%20Countries.py)
 - [Recyclable and Low Fat Products](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Customers%20who%20never%20orders.py)
 - [Customers who never orders](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Display%20first%20three%20rows.py)
+- [Article Views I](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Article%20Views%20I.py)
+
+##### String Methods
+- [Invalid Tweets](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Invalid%20Tweets.py)
 
 
 ### Top Interview 150
