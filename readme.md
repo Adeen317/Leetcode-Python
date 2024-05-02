@@ -38,6 +38,7 @@
 ##### String Methods
 - [Invalid Tweets](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Invalid%20Tweets.py)
 - [Calculate Special Bonus](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Calculate%20Special%20Bonus.py)
+- [Fix Names in a Table](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Fix%20Names%20in%20a%20Table.py)
 
 
 
