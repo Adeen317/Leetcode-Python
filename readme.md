@@ -37,6 +37,8 @@
 
 ##### String Methods
 - [Invalid Tweets](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Invalid%20Tweets.py)
+- [Calculate Special Bonus](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Big%20Countries.py)
+
 
 
 ### Top Interview 150
