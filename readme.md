@@ -26,6 +26,10 @@
 - [Change Data Type](https://github.com/Adeen317/Leetcode-Python/blob/main/Change%20Data%20Type.py)
 - [Fill Missing Data](https://github.com/Adeen317/Leetcode-Python/blob/main/Fill%20Missing%20Data.py)
 - [Reshape Data: Concatenate](https://github.com/Adeen317/Leetcode-Python/blob/main/Concatenate%20two%20dataframes.py)
+- [Reshape Data: Pivot](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Pivot.py)
+- [Reshape Data: Melt](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Melt.py)
+
+
 
 
 ### 30 Days Of Pandas
@@ -48,6 +52,7 @@
 - [Merge Sorted Array without built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(Without%20Built-ins).py)
 - [Remove Duplicate from Sorted Array with built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Remove%20Duplicate%20from%20sorted%20array(with%20built-ins).py)
 - [Remove Duplicate from Sorted Array without built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Remove%20Duplicate%20from%20sorted%20array(without%20built-ins).py)
+- [Remove Element](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Remove%20Element.py)
 
 
 
