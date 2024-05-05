@@ -45,6 +45,8 @@
 - [Calculate Special Bonus](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Calculate%20Special%20Bonus.py)
 - [Fix Names in a Table](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Fix%20Names%20in%20a%20Table.py)
 - [Find Users with valid e-mails](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Find%20Users%20with%20Valid%20E-Mails.py)
+- [Patients with a condition](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Patients%20with%20a%20condition.py)
+
 
 
 
