@@ -10,8 +10,7 @@
 - [Merge string alternatively](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Merge%20Strings%20Alternatively.py)
 - [Removes Duplicate from sorted arrays](https://github.com/Adeen317/Leetcode-Python/blob/main/removes%20duplicate%20from%20sorted%20arrays.py)
 - [Rearrange Product Tables](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/rearrange%20product%20tables.py)
-- [Second Highest Salary](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Second_highest_salary.py)
-- [Nth Highest Salary](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Nth_highest_salary.py)
+
 
 ### Introduction To Pandas
 - [Create a dataframe from a list](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Create%20a%20dataframe%20from%20a%20list.py)
@@ -34,21 +33,22 @@
 
 ### 30 Days Of Pandas
 
-##### Data Filtering
+###### Data Filtering
 - [Big Countries](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Big%20Countries.py)
 - [Recyclable and Low Fat Products](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Customers%20who%20never%20orders.py)
 - [Customers who never orders](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Display%20first%20three%20rows.py)
 - [Article Views I](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Article%20Views%20I.py)
 
-##### String Methods
+###### String Methods
 - [Invalid Tweets](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Invalid%20Tweets.py)
 - [Calculate Special Bonus](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Calculate%20Special%20Bonus.py)
 - [Fix Names in a Table](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Fix%20Names%20in%20a%20Table.py)
 - [Find Users with valid e-mails](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Find%20Users%20with%20Valid%20E-Mails.py)
 - [Patients with a condition](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Patients%20with%20a%20condition.py)
 
-
-
+###### Data Manipulation
+- [Nth Highest Salary](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Nth_highest_salary.py)
+- [Second Highest Salary](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Second_highest_salary.py)
 
 
 ### Top Interview 150
