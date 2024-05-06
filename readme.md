@@ -49,6 +49,8 @@
 ###### Data Manipulation
 - [Nth Highest Salary](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Nth_highest_salary.py)
 - [Second Highest Salary](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Second_highest_salary.py)
+- [Department Highest Salary](https://github.com/Adeen317/Leetcode-Python/blob/main/30%20Days%20Of%20Pandas/Department%20Highest%20Salary.py)
+- [Rank Scores](https://github.com/Adeen317/Leetcode-Python/blob/main/30%20Days%20Of%20Pandas/Rank%20Scores.py)
 
 
 ### Top Interview 150
