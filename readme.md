@@ -52,6 +52,9 @@
 - [Department Highest Salary](https://github.com/Adeen317/Leetcode-Python/blob/main/30%20Days%20Of%20Pandas/Department%20Highest%20Salary.py)
 - [Rank Scores](https://github.com/Adeen317/Leetcode-Python/blob/main/30%20Days%20Of%20Pandas/Rank%20Scores.py)
 
+###### Statistics
+- [Count Salary Categories](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Count%20Salary%20Categories.py)
+
 
 ### Top Interview 150
 - [Merge Sorted Array with built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(With%20Built-ins).py)
