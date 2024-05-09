@@ -56,6 +56,7 @@
 - [Count Salary Categories](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Count%20Salary%20Categories.py)
 
 ###### Data Aggregation
+- [Find total time spend by each employee](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Find%20Total%20Time%20spend%20by%20each%20employee.py)
 - [Game Play Analysis I](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Game%20Play%20Analysis%20I.py)
 
 
