@@ -58,6 +58,7 @@
 ###### Data Aggregation
 - [Find total time spend by each employee](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Find%20Total%20Time%20spend%20by%20each%20employee.py)
 - [Game Play Analysis I](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Game%20Play%20Analysis%20I.py)
+- [Number of each subject taught  by each teacher](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Number%20of%20each%20subjects%20taught%20by%20each%20teacher.py)
 
 
 ### Top Interview 150
@@ -67,6 +68,7 @@
 - [Remove Duplicate from Sorted Array without built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Remove%20Duplicate%20from%20sorted%20array(without%20built-ins).py)
 - [Remove Element](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Remove%20Element.py)
 - [Majority Element](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Majority%20Element.py)
+- [Rotate Array](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Rotate%20Array.py)
 
 
 
