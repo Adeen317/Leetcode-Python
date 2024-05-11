@@ -2,7 +2,6 @@
 
 ## Table of Contents
 - [Combine Two tables](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Combine%20Two%20Tables.py)
-- [Customer placing the largest number of orders](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Customer%20placing%20largest%20number%20of%20orders.py)
 - [Customer who never orders](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Customer%20who%20never%20places%20orders.py)
 - [Greatest Common Divisor of Strings](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Greatest%20common%20divisor%20of%20strings.py)
 - [Length of Last Word](https://github.com/Adeen317/Leetcode-Python/blob/main/length_of_last_word.py)
@@ -59,6 +58,8 @@
 - [Find total time spend by each employee](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Find%20Total%20Time%20spend%20by%20each%20employee.py)
 - [Game Play Analysis I](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Game%20Play%20Analysis%20I.py)
 - [Number of each subject taught  by each teacher](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Number%20of%20each%20subjects%20taught%20by%20each%20teacher.py)
+- [Classes more than 5 students](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Classes%20More%20Than%205%20students.py)
+- [Customer placing largest number of orders](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Customer%20placing%20largest%20number%20of%20orders.py)
 
 
 ### Top Interview 150
