@@ -61,9 +61,11 @@
 - [Classes more than 5 students](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Classes%20More%20Than%205%20students.py)
 - [Customer placing largest number of orders](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Customer%20placing%20largest%20number%20of%20orders.py)
 - [Group sold product by date](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Group%20sold%20product%20by%20date.py)
+- [Daily leads and partners](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Daily%20leads%20and%20partners.py)
 
 
 ### Top Interview 150
+###### Strings method
 - [Merge Sorted Array with built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(With%20Built-ins).py)
 - [Merge Sorted Array without built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(Without%20Built-ins).py)
 - [Remove Duplicate from Sorted Array with built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Remove%20Duplicate%20from%20sorted%20array(with%20built-ins).py)
