@@ -60,6 +60,7 @@
 - [Number of each subject taught  by each teacher](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Number%20of%20each%20subjects%20taught%20by%20each%20teacher.py)
 - [Classes more than 5 students](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Classes%20More%20Than%205%20students.py)
 - [Customer placing largest number of orders](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Customer%20placing%20largest%20number%20of%20orders.py)
+- [Group sold product by date](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Group%20sold%20product%20by%20date.py)
 
 
 ### Top Interview 150
