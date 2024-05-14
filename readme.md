@@ -12,10 +12,10 @@
 
 
 ### Introduction To Pandas
-- [Create a dataframe from a list](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Create%20a%20dataframe%20from%20a%20list.py)
-- [Get the size of a dataframe](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Get%20the%20size%20of%20a%20Dataframe.py)
-- [Display first three rows](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Display%20first%20three%20rows.py)
-- [Select Data](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Select%20Data.py)
+- [Create a dataframe from a list](https://github.com/Adeen317/Leetcode-Python/blob/main/Introduction%20To%20Pandas/Create%20a%20dataframe%20from%20a%20list.py)
+- [Get the size of a dataframe](https://github.com/Adeen317/Leetcode-Python/blob/main/Introduction%20To%20Pandas/Get%20the%20size%20of%20a%20Dataframe.py)
+- [Display first three rows](https://github.com/Adeen317/Leetcode-Python/blob/main/Introduction%20To%20Pandas/Display%20first%20three%20rows.py)
+- [Select Data](https://github.com/Adeen317/Leetcode-Python/blob/main/Introduction%20To%20Pandas/Select%20Data.py)
 - [Create a new column](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Create%20a%20new%20column.py)
 - [Drop Duplicate Rows](https://github.com/Adeen317/Leetcode-Python/blob/main/Drop%20Duplicate%20rows.py)
 - [Drop Missing Data](https://github.com/Adeen317/Leetcode-Python/blob/main/Drop%20missing%20Data.py)
