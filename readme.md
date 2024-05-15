@@ -65,6 +65,7 @@
 
 ###### Data Integration
 - [Actors and Directors who cooperated atleast three times](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Actors%20and%20Directors%20who%20coorperated%20at%20least%20three%20times.py)
+- [Replace Employee ID with unique identifier](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Replace%20emp_id%20with%20unique%20identifier.py)
 
 ### Top Interview 150
 ###### String methods
