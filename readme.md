@@ -76,7 +76,9 @@
 - [Remove Element](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Remove%20Element.py)
 - [Majority Element](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Majority%20Element.py)
 - [Rotate Array](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Rotate%20Array.py)
-- [Best Time to buy & sell stocks](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Best%20time%20to%20buy%20and%20sell%20stocks.py)
+- [Best Time to buy & sell stocks I](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Best%20time%20to%20buy%20and%20sell%20stocks.py)
+- [Best Time to buy & sell stocks II](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Best%20time%20to%20buy%20and%20sell%20stocks%20II.py)
+
 
 
 
