@@ -12,20 +12,33 @@
 
 
 ### Introduction To Pandas
+
+###### Pandas Data Structures
 - [Create a dataframe from a list](https://github.com/Adeen317/Leetcode-Python/blob/main/Introduction%20To%20Pandas/Create%20a%20dataframe%20from%20a%20list.py)
+
+###### Data Inspection
 - [Get the size of a dataframe](https://github.com/Adeen317/Leetcode-Python/blob/main/Introduction%20To%20Pandas/Get%20the%20size%20of%20a%20Dataframe.py)
 - [Display first three rows](https://github.com/Adeen317/Leetcode-Python/blob/main/Introduction%20To%20Pandas/Display%20first%20three%20rows.py)
+
+###### Data Selecting
 - [Select Data](https://github.com/Adeen317/Leetcode-Python/blob/main/Introduction%20To%20Pandas/Select%20Data.py)
 - [Create a new column](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Create%20a%20new%20column.py)
+
+###### Data Cleaning
 - [Drop Duplicate Rows](https://github.com/Adeen317/Leetcode-Python/blob/main/Drop%20Duplicate%20rows.py)
 - [Drop Missing Data](https://github.com/Adeen317/Leetcode-Python/blob/main/Drop%20missing%20Data.py)
 - [Modify Columns](https://github.com/Adeen317/Leetcode-Python/blob/main/Modify%20Columns.py)
 - [Rename Columns](https://github.com/Adeen317/Leetcode-Python/blob/main/Rename%20Columns.py)
 - [Change Data Type](https://github.com/Adeen317/Leetcode-Python/blob/main/Change%20Data%20Type.py)
 - [Fill Missing Data](https://github.com/Adeen317/Leetcode-Python/blob/main/Fill%20Missing%20Data.py)
+
+###### Table Reshaping
 - [Reshape Data: Concatenate](https://github.com/Adeen317/Leetcode-Python/blob/main/Concatenate%20two%20dataframes.py)
 - [Reshape Data: Pivot](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Pivot.py)
 - [Reshape Data: Melt](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Melt.py)
+
+###### Advanced Techniques
+- [Method Chaining](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Introduction%20To%20Pandas/Method%20Chaining.py)
 
 
 
@@ -66,6 +79,8 @@
 ###### Data Integration
 - [Actors and Directors who cooperated atleast three times](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Actors%20and%20Directors%20who%20coorperated%20at%20least%20three%20times.py)
 - [Replace Employee ID with unique identifier](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Replace%20emp_id%20with%20unique%20identifier.py)
+- [Managers with atleast 5 Direct Reports](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Managers%20with%20atleast%205%20Direct%20reports.py)
+
 
 ### Top Interview 150
 ###### String methods
