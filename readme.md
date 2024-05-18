@@ -80,10 +80,11 @@
 - [Actors and Directors who cooperated atleast three times](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Actors%20and%20Directors%20who%20coorperated%20at%20least%20three%20times.py)
 - [Replace Employee ID with unique identifier](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Replace%20emp_id%20with%20unique%20identifier.py)
 - [Managers with atleast 5 Direct Reports](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Managers%20with%20atleast%205%20Direct%20reports.py)
+- [Sales Person](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/30%20Days%20Of%20Pandas/Sales%20Person.py)
 
 
 ### Top Interview 150
-###### String methods
+###### Array/String
 - [Merge Sorted Array with built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(With%20Built-ins).py)
 - [Merge Sorted Array without built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Merge%20Sorted%20Array%20(Without%20Built-ins).py)
 - [Remove Duplicate from Sorted Array with built-ins](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Remove%20Duplicate%20from%20sorted%20array(with%20built-ins).py)
@@ -93,6 +94,7 @@
 - [Rotate Array](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Rotate%20Array.py)
 - [Best Time to buy & sell stocks I](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Best%20time%20to%20buy%20and%20sell%20stocks.py)
 - [Best Time to buy & sell stocks II](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Best%20time%20to%20buy%20and%20sell%20stocks%20II.py)
+- [Jump Game](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Jump%20Game.py)
 
 
 
