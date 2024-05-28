@@ -11,6 +11,9 @@
 - [Palindrome Number](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Palindrome_Number.py)
 - [Removes Duplicate from sorted arrays](https://github.com/Adeen317/Leetcode-Python/blob/main/removes%20duplicate%20from%20sorted%20arrays.py)
 - [Rearrange Product Tables](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/rearrange%20product%20tables.py)
+###### Binary Search
+- [Search Insert Position](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Search%20Insert%20Position.py)
+- [SQRT(X)](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/SQRT(x)--BinarySearch.py)
 
 
 ### Introduction To Pandas
