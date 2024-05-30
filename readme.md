@@ -1,10 +1,8 @@
 # LeetCode-Python
 
 ## Table of Contents
-- [Maximum Depth Of Binary Tree](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Maximum%20Depth%20of%20Binary%20Tree.py)
 - [Combine Two tables](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Combine%20Two%20Tables.py)
 - [Customer who never orders](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Customer%20who%20never%20places%20orders.py)
-- [Employee Bonus -- Pandas](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/rearrange%20product%20tables.py)
 - [Greatest Common Divisor of Strings](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Greatest%20common%20divisor%20of%20strings.py)
 - [Length of Last Word](https://github.com/Adeen317/Leetcode-Python/blob/main/length_of_last_word.py)
 - [Merge Two Sorted List](https://github.com/Adeen317/Leetcode-Python/blob/main/Merge%20two%20sorted%20list.py)
@@ -15,6 +13,12 @@
 ###### Binary Search
 - [Search Insert Position](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Search%20Insert%20Position.py)
 - [SQRT(X)](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/SQRT(x)--BinarySearch.py)
+###### Binary Tree
+- [Maximum Depth Of Binary Tree](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Maximum%20Depth%20of%20Binary%20Tree.py)
+- [Binary Tree Inorder Traversal](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Binary%20Tree%20Inorder%20Traversal.py)
+###### Pandas
+- [Exchange Seats](https://github.com/Adeen317/Leetcode-Python/tree/adeen_space/Pandas-All)
+- [Employee Bonus -- Pandas](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/rearrange%20product%20tables.py)
 
 
 ### Introduction To Pandas
