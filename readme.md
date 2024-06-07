@@ -18,8 +18,16 @@
 - [Binary Tree Inorder Traversal](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Binary%20Tree%20Inorder%20Traversal.py)
 ###### Pandas
 - [Exchange Seats](https://github.com/Adeen317/Leetcode-Python/tree/adeen_space/Pandas-All)
-- [Employee Bonus -- Pandas](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/rearrange%20product%20tables.py)
+- [Employee Bonus](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/rearrange%20product%20tables.py)
+- [Find followers Count](https://github.com/Adeen317/Leetcode-Python/blob/main/Pandas-All/Find%20followers%20count.py)
+- [Project Employees I](https://github.com/Adeen317/Leetcode-Python/blob/main/Pandas-All/Project%20Employees%20I.py)
 
+###### Dynamic Programming
+- [Climbing Stairs](https://github.com/Adeen317/Leetcode-Python/blob/main/Random%20Questions/Climbing%20Stairs-Dynamic%20Programming.py)
+
+###### Strings
+- [Reverse String](https://github.com/Adeen317/Leetcode-Python/blob/main/Random%20Questions/Reverse%20String.py)
+- [Score of a String](https://github.com/Adeen317/Leetcode-Python/blob/main/Random%20Questions/Score%20of%20a%20String.py)
 
 ### Introduction To Pandas
 
