@@ -1,6 +1,7 @@
 # LeetCode-Python
 
 ## Table of Contents
+- [Add two numbers](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Add%20two%20numbers.py)
 - [Combine Two tables](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Combine%20Two%20Tables.py)
 - [Customer who never orders](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Customer%20who%20never%20places%20orders.py)
 - [Greatest Common Divisor of Strings](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Greatest%20common%20divisor%20of%20strings.py)
@@ -10,6 +11,8 @@
 - [Palindrome Number](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Palindrome_Number.py)
 - [Removes Duplicate from sorted arrays](https://github.com/Adeen317/Leetcode-Python/blob/main/removes%20duplicate%20from%20sorted%20arrays.py)
 - [Rearrange Product Tables](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/rearrange%20product%20tables.py)
+- [Rotate Image](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Rotate%20Image.py)
+
 ###### Binary Search
 - [Search Insert Position](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Search%20Insert%20Position.py)
 - [SQRT(X)](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/SQRT(x)--BinarySearch.py)
@@ -17,6 +20,7 @@
 - [Maximum Depth Of Binary Tree](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Maximum%20Depth%20of%20Binary%20Tree.py)
 - [Binary Tree Inorder Traversal](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Binary%20Tree%20Inorder%20Traversal.py)
 ###### Pandas
+- [Confirmation Rate](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Pandas-All/Confirmation%20Rate.py)
 - [Exchange Seats](https://github.com/Adeen317/Leetcode-Python/tree/adeen_space/Pandas-All)
 - [Employee Bonus](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/rearrange%20product%20tables.py)
 - [Find followers Count](https://github.com/Adeen317/Leetcode-Python/blob/main/Pandas-All/Find%20followers%20count.py)
@@ -28,6 +32,7 @@
 ###### Strings
 - [Reverse String](https://github.com/Adeen317/Leetcode-Python/blob/main/Random%20Questions/Reverse%20String.py)
 - [Score of a String](https://github.com/Adeen317/Leetcode-Python/blob/main/Random%20Questions/Score%20of%20a%20String.py)
+- [Longest substring without repeating characters](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/longest%20substring%20wiithout%20repeating%20characters.py)
 
 ### Introduction To Pandas
 
