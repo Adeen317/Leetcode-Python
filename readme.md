@@ -13,6 +13,12 @@
 - [Rearrange Product Tables](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/rearrange%20product%20tables.py)
 - [Rotate Image](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Rotate%20Image.py)
 
+###### Array
+- [Median of Two Sorted Arrays](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Median%20of%20two%20sorted%20arrays.py)
+- [3Sum](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/3Sum.py)
+
+
+
 ###### Binary Search
 - [Search Insert Position](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/Search%20Insert%20Position.py)
 - [SQRT(X)](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Random%20Questions/SQRT(x)--BinarySearch.py)
@@ -121,7 +127,7 @@
 - [Jump Game II](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Jump%20Game%20II.py)
 - [H-Index](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/H-Index.py)
 - [Roman To Integers](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Roman%20to%20integers.py)
-
+- [Gas Station](https://github.com/Adeen317/Leetcode-Python/blob/adeen_space/Top%20Interview%20150/Gas%20Station.py)
 
 
 
